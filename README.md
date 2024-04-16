@@ -2,10 +2,10 @@
 
 1. **Run the script:**
 
-    Execute the `encryption_identifier.py` script and follow the prompts to input the text you want to identify the encryption or hash for.
+    Execute the `text_identifier_and_decryptor.py` script and follow the prompts to input the text you want to identify the encryption or hash for.
 
     ```bash
-    python encryption_identifier.py
+    python text_identifier_and_decryptor.py
     ```
 
     Follow the on-screen prompts to enter the text. The script will then identify the type of encryption or hash used in the text.
