@@ -1,6 +1,6 @@
 # Encryption Identifier and Hash Checker
 
-This script helps identify the type of encryption or hash of a given text input. It supports detection of Base32, Base64, Caesar Cipher, and various hashing algorithms.
+This application helps identify the type of encryption or hash of a given text input. It supports detection of Base32, Base64, Caesar Cipher, and various hashing algorithms.
 
 ## Usage
 
